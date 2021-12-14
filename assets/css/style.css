@@ -20,13 +20,13 @@ body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 17px;
   color: #585757;
 }
 
 p, .paragraph {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
 }
@@ -276,7 +276,7 @@ a.text-dark:hover {
 
 .section {
   padding-top: 20px;
-  padding-bottom: 90px;
+  padding-bottom: 20px;
 }
 
 .section-sm {
